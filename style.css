@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+    
+}
+.nav{
+    display:flex;
+}
+
+.logo a{
+    text-decoration: none;
+}
+.logo a h1{
+    cursor: pointer;
+    color: black;
+    
+}
+    
